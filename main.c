@@ -10,7 +10,7 @@ int main(int argc, char* argv[])
     int number1, number2, result;
     char operator;
 
-    printf("Please enter a expression: ");
+    printf("수식을 입력해주세요: ");
     scanf("%d %c %d", &number1, &operator, &number2);
 
     switch(operator)
@@ -29,7 +29,7 @@ int main(int argc, char* argv[])
             break;
     }
 
-    printf("결과는  %d.\n", result);
+    printf("결과는(ex 1 + 2= 3) %d.\n", result);
     return 0;
 }
 
