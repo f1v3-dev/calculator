@@ -35,8 +35,6 @@ int main(int argc, char* argv[])
 
     //1
     printf("결과는(ex 1 + 2= 3) %d.\n", result);
-
-    //2
     return 0;
 
     //3
