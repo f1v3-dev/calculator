@@ -29,7 +29,7 @@ int main(int argc, char* argv[])
             break;
     }
 
-    printf("result is %d.\n", result);
+    printf("result is(ex 1 + 2= 3) %d.\n", result);
     return 0;
 }
 
