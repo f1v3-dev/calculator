@@ -38,6 +38,8 @@ int main(int argc, char* argv[])
 
     //2
     return 0;
+
+    //3
 }
 
 int add(int number1, int number2)
