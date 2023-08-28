@@ -33,11 +33,8 @@ int main(int argc, char* argv[])
             break;
     }
 
-    //1
     printf("결과는(ex 1 + 2= 3) %d.\n", result);
     return 0;
-
-    //3
 }
 
 int add(int number1, int number2)
